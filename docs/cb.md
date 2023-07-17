@@ -246,7 +246,9 @@
     |`#min(value1 value2)#`|вернет наименьшее из двух чисел|
     |`#max(value1 value2)#`|вернет наибольшее из двух чисел|
     |`#clamp(value min_value max_value)#`|сведет число value к диапазону чисел. Если число меньше min_value то оно вернет min_value, если больше max_value то вернет max_value|
-
+    |`#cameraMode(*playerid)#`|-|
+    |`#tdShown(slot)#`|отображён ли текстдрав|
+    |`#tdPos(slot)# | #tdPosX(slot)# | #tdPosY(slot)#`|позиции текстдрава|
 
 **Текстовые функции** - текстовые команды, которые вы можете использовать внутри командных блоков в качестве условий для проверки, получения данных, арифметики и многого другого.
 Примеры использования текстовых функций:
@@ -400,8 +402,6 @@
 
 ## Интересные системы для практики с КБ
 
-- [Запрос авиаудара от Vol3k](https://forum.training-server.com/d/17583)
+- [Запрос авиаудара](https://forum.training-server.com/d/17583) [[архив](https://archive.is/LcoDu)]
 
-- [Дрифт система от Cheater_80_LVL](https://forum.training-server.com/d/16934)
-
-- [TRAINING PIXEL от xWivar](https://forum.training-server.com/d/14283)
+- [Дрифт система](https://forum.training-server.com/d/16934) [[архив](https://archive.is/v798H)]
